@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xuanran He
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student of Information System
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Nanyang Technological University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,6 +57,5 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xuanran He is student of Wee Kim Wee School of Communication and Information in Nanyang Technological Univeristy.Her research interests including Cloud Computing, Web Development,Cyber Security. She once served as a software engineer in ByteDance and built several quality assurance platforms and organized an overseas test team which covers 15 countries.
+She got a bacholar degree in Computer Science in Huazhong University and worked as a Research Assistant in Key Laboratory of Services Computing Technology and System, Ministry of Education.
