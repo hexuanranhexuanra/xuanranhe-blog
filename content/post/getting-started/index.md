@@ -1,12 +1,13 @@
 ---
 title: Topic2: A paper about evaluation of social media platforms
-- admin
-tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
-featured: false
-draft: false
+date: 2021-03-08
+math: true
+diagram: true
+image:
+  placement: 3
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+---
+
 
 ## Overview
 The aim of this paper is to evaluate empirically Instagram Interface by elderly Arab.The finding of the study highlighted a set of computer usability challenges that need to be taken into account by designers and developers in order to improve the usability of the Instagram Desktop Interface for elderly Arab.
