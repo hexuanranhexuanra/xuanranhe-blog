@@ -1,8 +1,5 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
-authors:
+title: Topic2: A paper about evaluation of social media platforms
 - admin
 tags: []
 categories: []
@@ -11,86 +8,24 @@ lastMod: "2019-09-05T00:00:00Z"
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ""
-  focal_point: ""
+## Overview
+The aim of this paper is to evaluate empirically Instagram Interface by elderly Arab.The finding of the study highlighted a set of computer usability challenges that need to be taken into account by designers and developers in order to improve the usability of the Instagram Desktop Interface for elderly Arab.
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
----
+## Unique Theme
+Social networks are on a continuous developing and have turn out to be generally
+utilized all through the around the world. As apps make our lives more convenient, the impact on different groups does vary. This article focuses on a small group of elderly Arab users to evaluate the user friendliness of apps, which makes the topic of the article very unique.
+## Scientific Methodology
+In the form of questionnaire survey, this paper evaluates the four interfaces of Instagram: Sign in, Comment, LIke, and Sign out. The users were divided into four ages and the time taken to complete each interface was recorded, and then the average score was calculated. The results are shown in the figure below.
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+![png](./1431615135078_.pic.jpg)
+## Comprehensive Conclusion
+Through scientific methodology and unique theme, this paper gives four very meaningful suggestions based on the software Instagram.
+- Provide a small description (use hint) of how to use the icons efficiently or help center. 
+- The like button must be defined for example write (like) keyword below the button.
+- Enable users to change icons and font size as most elderly face vision
+impairment.
+- Enable user to choose interface preference from layout and color as
+some users consider bright colors annoying. 
 
-
-
-
-![png](./index_1_0.png)
-
-
-
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+## Reference
+[Jarraf, Z., Banan Farhoud, A. A., Sayah, A., & Yadav, K. Usability Evaluation of Instagram for Elderly Arab Users.](https://www.researchgate.net/profile/Afraa-Alshammari/publication/323751506_Usability_Evaluation_of_Instagram_for_Elderly_Arab_Users/links/5f78b866458515b7cf653ee0/Usability-Evaluation-of-Instagram-for-Elderly-Arab-Users.pdf "paper")
