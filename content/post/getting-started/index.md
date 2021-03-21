@@ -1,5 +1,5 @@
 ---
-title: A paper about evaluation of social media platforms
+title: Topic 2 A paper about evaluation of social media platforms
 date: 2021-03-08
 math: true
 diagram: true

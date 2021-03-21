@@ -1,96 +1,22 @@
 ---
-title: "Topic2: A paper about evaluation of social media platforms"
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: "Topic3: Recommend two videos about apps and wearables"
 authors:
 - admin
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+date: "2021-03-21T00:00:00Z"
+lastMod: "2021-03-21T00:00:00Z"
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ""
-  focal_point: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+## Video Link
+[An ubiquitous application: Grammarly](https://www.youtube.com/watch?v=2AOZoGrPQU4)
 
+[Wearable devic: Google Glasses](https://www.youtube.com/watch?v=4EvNxWhskf8)
+## Why Recommend Them
+**Grammarly** is an online grammar checker that can help you check for mistakes in your English writing and make it more suitable for practical use or business purposes. No matter how you write -- social media, email, Microsoft Word, etc. -- Grammarly provides a real-time check of the entire English writing process. Grammarly highlights checked spelling errors in red, and when the mouse hovers over the specified word or phrase, it can be corrected directly or read a detailed explanation of the error. The whole application is so user-friendly that it quickly dominates the lexical checking market.
 
+**Google Classes** has a trackpad on the side (between the temple and the ear) that users can swipe to control a timeline-like user interface. Swipe back to show current events such as weather, and swipe forward to show historical events such as phone calls, photos, Google+ notifications, and more. A camera built into Google Glass can take photos or record 720p high-definition video.
 
-
-![png](./index_1_0.png)
-
-
-
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+These two videos explain how Grammarly and Glassglasses work and how to use them, which shows how novel and user-friendly they are.
