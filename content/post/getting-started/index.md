@@ -1,5 +1,5 @@
 ---
-title: Topic2: A paper about evaluation of social media platforms
+title: A paper about evaluation of social media platforms
 date: 2021-03-08
 math: true
 diagram: true
@@ -29,4 +29,4 @@ impairment.
 some users consider bright colors annoying. 
 
 ## Reference
-[Jarraf, Z., Banan Farhoud, A. A., Sayah, A., & Yadav, K. Usability Evaluation of Instagram for Elderly Arab Users.](https://www.researchgate.net/profile/Afraa-Alshammari/publication/323751506_Usability_Evaluation_of_Instagram_for_Elderly_Arab_Users/links/5f78b866458515b7cf653ee0/Usability-Evaluation-of-Instagram-for-Elderly-Arab-Users.pdf "paper")
+Jarraf, Z., Banan Farhoud, A. A., Sayah, A., & Yadav, K. Usability Evaluation of Instagram for Elderly Arab Users.

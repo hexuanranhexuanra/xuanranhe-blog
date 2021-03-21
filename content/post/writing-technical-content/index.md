@@ -1,5 +1,5 @@
 ---
-title: Topic1: Usability Analysis
+title: Usability Analysis
 date: 2021-02-20
 math: true
 diagram: true
