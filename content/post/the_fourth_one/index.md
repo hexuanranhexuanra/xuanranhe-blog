@@ -1,6 +1,6 @@
 ---
-title: Topic 1 Usability Analysis
-date: 2021-02-20
+title: Topic 4 A paper about how gamified applications can be evaluated
+date: 2021-04-05
 math: true
 diagram: true
 image:
@@ -8,30 +8,17 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-## Introduction
-Keeping TODO lists in software is one of the big changes the Internet has brought to workers. 
-There are a lot of applications for keeping lists of Todos in the market. 
-Here's what I'd like to compare: **Apple's Calendar app** and **Microsoft's Todo**, 
-which focuses on the user interaction. Here is the homepage of the two applications.
+## Overview
+This article shows the process of how gamification can make online surveys more interesting through specific cases. The article focuses on the reasons why online surveys are considered negative: speeding, random responses, lack of attention, etc. It also analyzes the benefits of gamification of surveys, focusing on user experience, user motivation, engagement, data volume, etc. This article documents the application of the entire process and the final gamification design, and qualitatively evaluates the importance of psychological and behavioral outcomes in gamification design.
+## Unique Theme
+In this article, To design a gamified online survey in this work, authors chose to follow the process which integrates and unifies the MDA (mechanics-dynamics-aesthetics) gamification framework and the three layers of form design, applying them to the various survey areas.
+## How to evaluate gamification application
+-  Game Elements for Inspiration. Prior to starting with the gamification process, designers should collect game elements that can inspire their further design activities.
+- Aesthetics and the Relationship Layer. As a first step of the proposed process, designers should analyze the intended users (i.e., the survey’s target population), tasks(the form schema to be filled), and context, as described in the relationship layer of form design. 
+- Dynamics and the Conversation Layer. Designers can use the MDA framework to reason about which game dynamics are suited for producing the intended aesthetics. 
+- Mechanics and the Conversation and Appearance Layers. To produce the intended dynamics and aesthetics, designers can employ suitable game mechanics and playful elements. Again, they can use the catalogue of MDAs for inspiration.
+## Comprehensive Conclusion
+Gamification is a promising way of improving user experience and increasing engagement in online surveys. this work documents the successful application of a recently proposed design process for gamifying online surveys and describes the resulting design. The process was applied in a case study where two designers gamified a survey about sports and leisure activities amongst teenagers and young adults. The designers reported qualitative results supporting the practical usefulness and applicability of the process.
 
-![png](./appleCalendar.png)
-![png](./microsoftTodo.png)
-
-## Apple's Calendar VS Microsoft's Todo
-
-### What is user's goal?
-- Record TODO  item quickly
-- Review what have done in a timely manner
-- Be clear about the priorities
-
-### Record TODO  item quickly
-In the apple calendar, you can start recording the TODO content anywhere, drag and drop the module to place the TODO project at the point you want to start, and adjust the time interval for completion by changing the length of the module.In Microsoft'Todo you can only record Todo items from the bottom of the screen, and you can only add due date, so you can't see the order of things in the Todo list at a glance.
-
-### Review what have done in a timely manner
-In the apple calendar, user can choose to view the previous TODO list in four dimensions: day, week, month and year. This function is convenient for us to review ourselves and the degree of completion of TODO and help us to make some adjustments when recording TODO in the future.But in Microsoft Todo, you can only view the current day's Todo, which makes it difficult to review what you've already done.
-### Be clear about the priorities
- In the Apple Calendar, you can set the priority of different items in the left sidebar, which is separated by color. In Microsoft TODO, all TODO are placed at the same level, which is not good for us to manage our time.
-
-## Conclusion
-
-Apple Calendar clearly takes precedence over Microsoft Todo in terms of usability and user friendliness. Microsoft Todo is less useful but it can be integrated with Microsoft Outlook to automatically migrate Todo, which is one of the ways it appeals to users.
+## Reference
+Harms, J., Biegler, S., Wimmer, C., Kappel, K., & Grechenig, T. (2015, September). Gamification of online surveys: Design process, case study, and evaluation. In IFIP Conference on Human-Computer Interaction (pp. 219-236). Springer, Cham.
